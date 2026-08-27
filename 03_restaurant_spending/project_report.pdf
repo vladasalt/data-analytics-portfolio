@@ -1,74 +1,94 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<<
-/F1 2 0 R /F2 3 0 R
->>
+<< /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
->>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
+<< /Length 1831 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+(RESTAURANT SPENDING ANALYSIS) Tj
+0 -16 Td
+(Plotly Express tips dataset | Python / R | Customer Analytics) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Project objective) Tj
+0 -16 Td
+(Examine restaurant spending patterns and relationships between bill size and visit) Tj
+0 -16 Td
+(characteristics, with a focus on day, smoker status, meal time and party size.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Data) Tj
+0 -16 Td
+(The dataset contains 244 transactions and seven fields: total_bill, tip, sex,) Tj
+0 -16 Td
+(smoker, day, time and size. Bill category is created using tertiles of total_bill.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Analytical workflow) Tj
+0 -16 Td
+(1. Descriptive statistics compare mean, SD and count of total_bill across groups.) Tj
+0 -16 Td
+(2. Welch independent-samples t-test compares total_bill for smokers and non-smokers.) Tj
+0 -16 Td
+(3. Chi-square test examines day versus bill_category.) Tj
+0 -16 Td
+(4. OLS regression models total_bill as a function of party size.) Tj
+0 -16 Td
+(5. Shapiro-Wilk and Breusch-Pagan diagnostics are used; HC3 robust SE provide) Tj
+0 -16 Td
+(   a sensitivity check for heteroscedasticity.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Business interpretation) Tj
+0 -16 Td
+(Party size is relevant to table allocation, expected spend and capacity planning.) Tj
+0 -16 Td
+(Group differences should be interpreted as associations, not causal effects.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Portfolio value) Tj
+0 -16 Td
+(Demonstrates Python-based data cleaning, descriptive analysis, hypothesis testing,) Tj
+0 -16 Td
+(categorical association testing, linear regression and model diagnostics.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Reproducibility) Tj
+0 -16 Td
+(The repository contains analysis.py and tips.csv. The supplied scripts reproduce) Tj
+0 -16 Td
+(the core descriptive and inferential workflow from the public CSV.) Tj
+ET
+endstream
 endobj
 5 0 obj
-<<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
->>
-endobj
-6 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260827153202+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827153202+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-7 0 obj
-<<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
->>
-endobj
-8 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1460
->>
-stream
-Gatm:bDtU@&A7I5oI6.1[arsGO(/B`]d/N[AphgV,LI9N-rNE1p);#mVb#LH4W/0sJRQ>)\]HII<>V.P">:PJbD,508KU/Q@OWm1`:>1OjWF-Lo#&WU[Z;tAOqi8.d;2i/kp2m0*WF&F2XH^VZD!M:[3%W2`9(L;A?qT,`KV"$(AWQFPjFk,^)/GFoW.`7GEm.>'0QWeN93`Y4NHX18bY"m^X;V=JE/4eDkSTq-YO-Y(R)fX\Yet43^^3pCn>:\GRcQ)M?#LRGoj]ZbRsO(f8aW3ia-L*r?[ul[]J`0RW"qmoFF)K4?eL\c>EX^'DMD3LcIPLR'L1Y3b4F`5#3WLB6h>mMm16g7UUb57<g@DJpQ[7o?uhQ!3k]LC;dDN79\8og3lPgh?4[2mQmQ^M?c\TQE?o0iO;-eC/9X;CMnF^Kp>b>3o[^p5)@"D/[lHP;&`MJV-XfGl_UT%X@SRFRmr^!,N"4:Xhi;gjGH!($L>7PI[Bt^<Mk]MX_:9>HK7f$6p+6i\Eg6+6G1cMG,^`:eS"bs)E>6#?VcVJ.<hG]<3`7*3EU:'d?W'"oj3Q6f_"VhS^&PgIG$tN`1u&^Cb385W,L%0TqkeEp:M2!hal5L6$Shk)c(jWUT.l"#@&7+&84/a"V`Iq3?F,MaVE`#0Q%%c@+g?:;WBuuoj!!5!qDE3]mse6'lm[!D,K)GgC2jA5B+<U)W>I1?,J7@QSIT'3>:<I,Ajt91e#rgV^enf%4\&I_Ne011"IAl,?fW%c6:UTEa@.5oV!BLA968h)8?9_]o!fP:QI(IW8X11j>56=U$p;`aIkQ(g0O3%%C5RQ-/9oG%3dM"r+Ptu"qW/""'&@<Wa5+M()A)Fddtm*kB[4Ja/n:QO4WT-E\jcA'D`^Y"@ZCBG_KO_,(GAUZJnA,D+/5VVu_q9.J3X*M*#HUiKmeb\\\mE09?@tkfo(lo0ssX%D(E3"f,XO%<`65JPd?u^4Xtpe9>,jd*n>!Lr8@MCg[b<'n=."OO0U,S=^[fX3DD7$LdZtq`mY:h'XE'fAiO0KL2*$YDe+&j,J+V@&nN$JhS.CFsG]Zq]'%qJh(1A#L%=,Sm&:4kVDRV"hdW=JOEIeRJ$Rg3*((]lRVU0ACFcIYt4RePpc;WQ#]h1?ut1Z,$tA)Yo=2cTu-[UiWKT:NPj;V_Jk2/d:-PjP)6$U*?m$UHJW!GeXK#e,&Qs3/;.;5=e9rhL`1AeN99/]b,?RBlTuL?Jt%L5^:'nCf<:aE\#[q69rHAo0bh+PbGdcLg-,e(#Jp*iRhO/S?=1Nr^;t32r%t)PW.'F\ae1?.6iS;+FFHlga-1&NYT4d%pWQ.u;&11a1&)$uRmREgl`?7:mIj`J41=OJ'I#n/3sfp]/fI7cV]/*nd$Vhq[1&8:d5&]K-DM%sQpa>.C7kdi<%9L>5UhBpo-eJo^>VtDH`A1eh+i=rrAB6"iEm:.gW]~>endstream
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 xref
-0 9
+0 6
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000872 00000 n 
-0000000931 00000 n 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002123 00000 n 
 trailer
-<<
-/ID 
-[<19665475ec5aad02e7f19922da744897><19665475ec5aad02e7f19922da744897>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
->>
+<< /Size 6 /Root 1 0 R >>
 startxref
-2482
+2193
 %%EOF
