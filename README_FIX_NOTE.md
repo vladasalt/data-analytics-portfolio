@@ -1,0 +1,1 @@
+The three portfolio reports are being replaced with validated PDF binaries.
