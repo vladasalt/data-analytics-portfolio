@@ -6,72 +6,78 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
-endobj
-5 0 obj
-<< /Length 1540 >>
+<< /Length 1890 >>
 stream
 BT
-/F1 18 Tf
-50 750 Td
-(NHS Satisfaction Analysis) Tj
-/F1 10 Tf
-0 -25 Td
-(British Social Attitudes Survey 2021) Tj
-0 -13 Td
-(Project overview) Tj
-0 -15 Td
-(Analysis of satisfaction with the National Health Service using the British Social) Tj
-0 -13 Td
-(Attitudes Survey 2021. The project uses R and a sample of 3,307 respondents.) Tj
-0 -13 Td
-(Analytical methods) Tj
-0 -15 Td
-(- Descriptive statistics) Tj
-0 -13 Td
-(- Independent-samples t-test) Tj
-0 -13 Td
-(- Chi-square test) Tj
-0 -13 Td
-(- Linear regression) Tj
-0 -13 Td
-(- Model diagnostics) Tj
-0 -13 Td
-(Analytical workflow) Tj
-0 -15 Td
-(1. Convert labelled survey variables and recode non-substantive responses.) Tj
-0 -13 Td
-(2. Construct NHS satisfaction, age and socio-demographic variables.) Tj
-0 -13 Td
-(3. Build a complete-case analytical dataset.) Tj
-0 -13 Td
-(4. Compare NHS satisfaction across sex using an independent-samples t-test.) Tj
-0 -13 Td
-(5. Examine education and NHS satisfaction categories with a Chi-square test.) Tj
-0 -13 Td
-(6. Model NHS satisfaction as a function of age using linear regression.) Tj
-0 -13 Td
-(7. Check residual normality, variance assumptions and model diagnostics.) Tj
-0 -13 Td
-(Reproducibility) Tj
-0 -15 Td
-(The original BSA 2021 survey dataset is not redistributed in this repository.) Tj
-0 -13 Td
-(The analysis script documents the workflow and can be run when the local survey) Tj
-0 -13 Td
-(dataset is available.) Tj
-0 -13 Td
-(Files) Tj
-0 -15 Td
-(analysis.R - R analysis workflow) Tj
-0 -13 Td
-(README.md - project overview) Tj
-0 -13 Td
+/F1 11 Tf
+50 760 Td
+(NHS SATISFACTION ANALYSIS) Tj
+0 -16 Td
+(British Social Attitudes Survey 2021 | R | Quantitative Research) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Research question) Tj
+0 -16 Td
+(Does NHS satisfaction differ across income, marital status, children, sex, education and age?) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Sample and preparation) Tj
+0 -16 Td
+(Complete-case analytical sample: N = 3,307. Mean NHS satisfaction = 2.60.) Tj
+0 -16 Td
+(Non-substantive responses were excluded. Age bands were represented using midpoints.) Tj
+0 -16 Td
+(Alpha level: 0.05. NHS satisfaction was treated as continuous for parametric analysis.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Descriptive findings) Tj
+0 -16 Td
+(Income means: <1410 = 2.49; 1411-2560 = 2.70; 2561-4350 = 2.66; 4351+ = 2.56.) Tj
+0 -16 Td
+(Marital status means: married/cohabiting = 2.63; divorced/separated = 2.52;) Tj
+0 -16 Td
+(widowed = 2.88 \(n=16, interpret cautiously\); single = 2.55.) Tj
+0 -16 Td
+(Children: yes = 2.56; no = 2.63.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Hypothesis tests) Tj
+0 -16 Td
+(Sex t-test: t = -0.78, p = 0.437. Not statistically significant.) Tj
+0 -16 Td
+(Education Chi-square: chi-square = 10.84, df = 6, p = 0.093.) Tj
+0 -16 Td
+(Age regression: beta = 0.00117, p = 0.717, R-squared approximately 0.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Diagnostics and limitations) Tj
+0 -16 Td
+(Residual normality is not fully satisfied because the five-point outcome is discrete.) Tj
+0 -16 Td
+(No clear funnel pattern was observed, so homoscedasticity was considered acceptable.) Tj
+0 -16 Td
+(Limitations: ordinal outcome treated as continuous, complete-case bias and cross-sectional design.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Conclusion) Tj
+0 -16 Td
+(NHS satisfaction is only weakly structured by the socio-demographic characteristics examined.) Tj
+0 -16 Td
+(Sex, education and age show no statistically significant relationship with satisfaction.) Tj
 ET
 endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 xref
 0 6
@@ -80,9 +86,9 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000241 00000 n 
-0000000311 00000 n 
+0000002182 00000 n 
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-1903
+2252
 %%EOF
