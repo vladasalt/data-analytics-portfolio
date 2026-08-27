@@ -4,7 +4,7 @@ A quantitative customer-analytics project using the **Plotly Express tips datase
 
 ## Project overview
 
-The project examines total bill value across days, smoking status and meal period, and evaluates the relationship between party size and total bill.
+The project examines total bill value across days and smoking status, and evaluates the relationship between party size and total bill. Regression diagnostics are also included.
 
 **Sample:** 244 restaurant bills  
 **Language:** Python  
@@ -24,7 +24,6 @@ The project examines total bill value across days, smoking status and meal perio
 
 - How does average bill size vary by day?
 - Do smokers and non-smokers differ in total bill value?
-- Is day associated with low, medium and high bill categories?
 - Is party size associated with total bill value?
 - Are the regression assumptions sufficiently reasonable for interpretation?
 
@@ -36,13 +35,21 @@ The results are interpreted as **associations rather than causal effects**.
 
 ## Visualisations
 
+### Average bill by day
+
 ![Average bill by day](average_bill_by_day.png)
+
+### Average bill by smoking status
 
 ![Average bill by smoking status](average_bill_by_smoker.png)
 
-![Average bill by meal time](average_bill_by_time.png)
+### Party size and total bill
 
-![Party size and total bill](party_size_vs_total_bill.png)
+![Party size and total bill](party_size_regression.png)
+
+### Regression residual distribution
+
+![Residual distribution](residual_distribution.png)
 
 ## Reproducibility
 
