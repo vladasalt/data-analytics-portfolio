@@ -1,4 +1,4 @@
-%PDF-1.4
+%PDF-1.3
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
@@ -32,8 +32,8 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260827215157+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827215157+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/Author (Data Analytics Portfolio) /CreationDate (D:20260827215332+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215332+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Restaurant Spending Analysis) /Trapped /False
 >>
 endobj
 7 0 obj
@@ -43,10 +43,43 @@ endobj
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1532
+/Length 1968
 >>
 stream
-GatU295iQE&AI=/bgF&,'tl/&aD',!fL)l;)e46J$SBaA)i@Tdb)R;8j*-6`Cq3)H,=R,b[`!H=Nu:@tia:dH(H'"q!j4aW&B1kU6'MR&/0<_uEV99FIqMM8nfZ]e*_aI"cQ`/Se#_e![#[DqJh2uS#i^,kUfiSQCDbk^a5@KIjN`V!_P9#,V5;PR_;ZCbI])\Q(f:pa8N8ekn]99$U;;]4=R+kd/-t8]Md_?Ao*ielC:kS`gSYd@0Vs$G+(L+Tn*u>tS4>k'c_;<6?^*8@_Q@=M@EQDb_c8/8\nf(ggXe,>4l]1]]r3n4'Qk:T+f&D385\#:6tJhb(dt\mhO"$d[?E\^Iq]>#(7]%hPR+_Z%fV+$SZB-7MpEt5+rkZ5_iHo"qD\r\o00HB3=B`YK1klHeT7a:'F!u?q2H1i^^5^ukF'WAk)&6:Zj/"Wb9!A)r<oZ[i_\kkQm7S`+XL7\08BumJm2@F&?=P'Cos=d?@:2/(76SFk"J+ZNR6e>s55R@Cb+p'DP1FXmCH+a0oVL-\e**U'"5YWi3^BE53msFQ3S5uSV6IM2\+b`:O?/-&msAa)5m<&(Q_s&*#bT/=(j0PMX\DcOt<t\9IN4h:=C<<YlXc^e?Gdf:dPo&/boCd0uZJjpriF43cW3b\0KFYReuf>"9f%Z,#slAC^X]CW88MrV.po2`p=P6$LtXt0h;`j^#W;H"ZU,Wa3O"p,lp,j0eGF!)r59#]TRSf6-AE(8Wrj#l<"Q+-8&JYdRC%C/W=B@TWiiMQ[7`t=OTh3(5&eq(=ds`Th8'iPUe\tXDWi&2t=%#FH(\DTUs@[WmYXfs*d>J=_EgV$OG""btHI8f9KH>S\GL_IBC2^=5!X9V#=,HM>c9d1MF44ji1rLr1`n51R&94"eQj-:mYtGY!@9re^2D4_a%Gh3D/o;)EL=K>2.WL"=EenjN7hj7:>tdil1Kmp.j*#(Gt]L2Dp\_%q3BGL6/'N3l='[X:[ot^'a]&V^%Xcjsj:5#EFoCF5=/5I)?^!-]V^&+72P_!+c!A,p#'aUbE)GBoZb@@J!/Y3e(piCPuqZmfcBN.G.g<0@g.&r/cHVb8/W^6:GN+UtQY[g*.t:X,i]&Yr/9U#]F'=kgOm[0B"s<mrFp&E(`pR\.m)*K9MM#Vq(UE8X@)_@=gM.8*S5VqD__qLknBU)cXO@F8K_A\hlA`%(YB-fK:)VEZc(-Y6IK!*'on%nAiO:_J2LbG#(#t+E96$.9Znk.Gf8X[Glq9Nda$4d,TbXj)\:,2Gg0jf/,csS2A5aNruNP<e<\H'oE)@T09i>N!u&e86aK5,'E+Gj^ut#m%%5B<mjOU28tUbFil.8CM@\Hb1Ea?+ZZ;4<^EK[XORKs8WrG2b/j_[_Jo\<<YJ$F5eCrF$d[.P[o^<&NCL*bZg/F=4cJ!cTganNdG>B@]BON(P1VZ%^A&A&)e!GIfFIcG%BDhC;.S]L8'pWH,54><U2O3=/#-mPUOW"dKu";"LTQXXU^4MtEk'a:N`$Kf+e#b7*NoAHbJVCB~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 20 Tf 24 TL ET
+BT 1 0 0 1 56.69291 771.0236 Tm (Restaurant Spending Analysis) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 56.69291 747.0236 Tm (Plotly Express tips dataset | Python | Quantitative Analytics) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 728.0236 Tm (1. Objective) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 710.0236 Tm (Examine how restaurant bill size varies by day, smoking status and meal period, and test whether party si) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 693.0236 Tm (2. Dataset and methods) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 675.0236 Tm (The project uses the Plotly Express tips dataset containing 244 restaurant bills. Variables include total) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 658.0236 Tm (3. Statistical workflow) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 640.0236 Tm (The analysis calculates descriptive statistics by day, smoking status and meal period; applies a Welch in) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 623.0236 Tm (4. Assumption checks) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 605.0236 Tm (Normality is assessed using Shapiro-Wilk tests, variance equality using Levene test, and regression resid) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 588.0236 Tm (5. Business interpretation) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 570.0236 Tm (Party size is a natural operational driver of bill value and can inform table allocation, staffing and ca) Tj T* ET
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 56.69291 553.0236 Tm (6. Reproducibility) Tj T* ET
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 56.69291 535.0236 Tm (The repository contains analysis.py, the tips.csv dataset, supporting visualisations and this report.) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 56.69291 28.34646 Tm (Data Analytics Portfolio) Tj T* ET
+BT 1 0 0 1 534.1347 28.34646 Tm (1) Tj T* ET
+ 
+endstream
 endobj
 xref
 0 9
@@ -57,12 +90,12 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000872 00000 n 
-0000000931 00000 n 
+0000000888 00000 n 
+0000000947 00000 n 
 trailer
 <<
 /ID 
-[<fa18e44de4ae8124169fb69365578334><fa18e44de4ae8124169fb69365578334>]
+[<4a2f3a6b96244e47648c06f850795826><4a2f3a6b96244e47648c06f850795826>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
@@ -70,5 +103,5 @@ trailer
 /Size 9
 >>
 startxref
-2554
+2966
 %%EOF
