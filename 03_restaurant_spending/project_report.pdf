@@ -1,5 +1,5 @@
-%PDF-1.3
-%Â©XY ReportLab Generated PDF document (opensource)
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R
@@ -32,8 +32,8 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260827214234+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827214234+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/Author (\(anonymous\)) /CreationDate (D:20260827213111+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827213111+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (restaurant_report_fixed) /Trapped /False
 >>
 endobj
 7 0 obj
@@ -43,53 +43,10 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 2838
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 985
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
-BT 1 0 0 1 52 779.8898 Tm (Restaurant Spending Analysis) Tj T* ET
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 52 755.8898 Tm (Plotly Express tips dataset | Python | Customer Analytics) Tj T* ET
-n 52 731.8898 m 543.2756 731.8898 l S
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 709.8898 Tm (Objective) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 693.8898 Tm (Examine how restaurant spending varies by day, smoking status and meal period, and assess) Tj T* ET
-BT 1 0 0 1 52 680.8898 Tm (whether party size is associated with total bill.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 659.8898 Tm (Dataset and methods) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 643.8898 Tm (The dataset contains 244 restaurant bills with total_bill, tip, sex, smoker, day, time and) Tj T* ET
-BT 1 0 0 1 52 630.8898 Tm (size. Methods include descriptive statistics, Welch independent-samples t-test, Chi-square) Tj T* ET
-BT 1 0 0 1 52 617.8898 Tm (testing, simple linear regression and residual diagnostics.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 596.8898 Tm (Analysis workflow) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 580.8898 Tm (The project combines descriptive group comparisons with formal hypothesis tests. A) Tj T* ET
-BT 1 0 0 1 52 567.8898 Tm (categorical bill-size variable is used for the Chi-square analysis, while simple linear) Tj T* ET
-BT 1 0 0 1 52 554.8898 Tm (regression evaluates the relationship between party size and total bill.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 533.8898 Tm (Business interpretation) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 517.8898 Tm (Party size is relevant to table allocation, expected spend and capacity planning. Group) Tj T* ET
-BT 1 0 0 1 52 504.8898 Tm (differences should be interpreted as associations, not causal effects.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 483.8898 Tm (Limitations) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 467.8898 Tm (The dataset is a compact observational sample, so results should not be treated as causal or) Tj T* ET
-BT 1 0 0 1 52 454.8898 Tm (automatically generalised to all restaurants. Regression diagnostics and robust standard) Tj T* ET
-BT 1 0 0 1 52 441.8898 Tm (errors are included as sensitivity checks.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 420.8898 Tm (Reproducibility) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 404.8898 Tm (The project is designed as a compact Python analytics portfolio example covering cleaning,) Tj T* ET
-BT 1 0 0 1 52 391.8898 Tm (descriptive analysis, hypothesis testing, regression and model diagnostics. The repository) Tj T* ET
-BT 1 0 0 1 52 378.8898 Tm (includes the analysis script, requirements and supporting figures.) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 455.8196 25 Tm (Portfolio project | Page 1) Tj T* ET
- 
-endstream
+GatU19lJc?%)(h*nE:=AB0/l:*nRRLA])+)^lF%V1U/i@;C+>_L].!FG3l$\7tM3T!^i^(a2dqA"Cc\?m^K+qY&\d[2M!--HjrX_AWXZ^Rs]6@8bS;<AJD&K71.5W,+?j?)1>$,EHc7X'?ZDq8a5i8&uLc15%30A]3IbG/5):NT9g,ETlmFk9KMsM;3kI)i3d*i[G8KHr#=]M@J]a<!q_>@5Cpu:F$WZiESmStPpGrL\[Y?-TPfI(U4o)-2J=[%Xt>m^0oHNj_JSTg-0aO&Ytih_HGGOW#K2Z:rW@.fR`=#G@l!?]00J7Pj6@R!Nc/p9q=c(kAU:XQEY6P$AhO&J5YZ4(@l9SYQ$NFOR$Jbi[:P)fKiLb[[3=1+IJ:brkSah&Q;Ae>T[@^YL>;m:f(8`7TrWu5c&?GSnfM?p!Ok6`'q@98iISTJS8sj+`J',nBK<\L-Eh@]F7+V.Ue?&(\bK9OO/o'>Ys"RHoF@N:a=A7l<@I)KQPR0,*o0"B8@.ZMIntaR#E:`r,HAKSLsV'HL4[$d12+OR9TI`Wp#p+Ni'ZBNE*8!o4NsKe>8XNVcFSjQlX_-S(DK;,d3X)VTQF,UC+Vs]DX%L<#hKf`gA?UB"Fi\"+9^K?J06j,6d9G[]f:;Z"/0pF2G>**F1.42.sT(PkKE$Ll)LukaSP$>)R@$E;opgfB)gnlgJRW/C,[P[lf[OI34:#sQk6:]OG&-G9kGb#FKXrn.[XfOV[Q`_.>cmehAOjW./A1K#%^*<Ya&rk$*,:\%6^GpiFk!H6;s/,"NVKS5!qq?\?gueSnk_qe4,]t_+CWUalu^Vo(7AQr:W52hI]a6Y>*>&8XjYZSd+ak9mjN\\[,_>K3$!oQ/IOScq0`o\$X=l`>&HBm"Be''=Rr8$:iCB<\%?qFEXn*'Cj\S6ik>c#7oFZ<gGgYg;02AU,peS^8t+Shf+3*3H8;*6"fXUq[PaD2;^5ioBAeSnd@G)6Ce~>endstream
 endobj
 xref
 0 9
@@ -100,18 +57,17 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000853 00000 n 
-0000000912 00000 n 
+0000000882 00000 n 
+0000000941 00000 n 
 trailer
 <<
 /ID 
-[<0c1f1b4245894a0d5d6ab91274ce27ad><0c1f1b4245894a0d5d6ab91274ce27ad>]
+[<96ba005010de63ce935902ad9441ad9c><96ba005010de63ce935902ad9441ad9c>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
 /Root 5 0 R
 /Size 9
 >>
-startxref
-3801
+startxreg2016
 %%EOF

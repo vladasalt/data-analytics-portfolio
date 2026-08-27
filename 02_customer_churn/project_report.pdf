@@ -1,5 +1,5 @@
-%PDF-1.3
-%Â©XY ReportLab Generated PDF document (opensource)
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R
@@ -32,8 +32,8 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260827214234+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827214234+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/Author (\(anonymous\)) /CreationDate (D:20260827213111+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827213111+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (customer_report_fixed) /Trapped /False
 >>
 endobj
 7 0 obj
@@ -43,56 +43,10 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 2830
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1082
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
-BT 1 0 0 1 52 779.8898 Tm (Customer Churn & Retention Analysis) Tj T* ET
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 52 755.8898 Tm (IBM Telco Customer Churn dataset | Customer Analytics) Tj T* ET
-n 52 731.8898 m 543.2756 731.8898 l S
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 709.8898 Tm (Objective) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 693.8898 Tm (Identify customer characteristics associated with churn and translate the findings into) Tj T* ET
-BT 1 0 0 1 52 680.8898 Tm (practical retention priorities.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 659.8898 Tm (Dataset and focus) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 643.8898 Tm (The dataset contains 7,043 customer records. The analysis focuses on contract type, payment) Tj T* ET
-BT 1 0 0 1 52 630.8898 Tm (method, tenure and monthly charges.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 609.8898 Tm (Methods) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 593.8898 Tm (Descriptive comparisons, Chi-square testing, odds-ratio reasoning and business) Tj T* ET
-BT 1 0 0 1 52 580.8898 Tm (interpretation.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 559.8898 Tm (Key retention signals) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 543.8898 Tm (Contract structure and customer tenure are useful segmentation dimensions for retention) Tj T* ET
-BT 1 0 0 1 52 530.8898 Tm (activity. Payment method and monthly charges provide additional signals for prioritising) Tj T* ET
-BT 1 0 0 1 52 517.8898 Tm (customer outreach. These are associations rather than causal effects.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 496.8898 Tm (Business interpretation) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 480.8898 Tm (Retention activity can be prioritised around customers in higher-risk contract segments and) Tj T* ET
-BT 1 0 0 1 52 467.8898 Tm (customers early in their tenure. Payment method and monthly charges can be used as) Tj T* ET
-BT 1 0 0 1 52 454.8898 Tm (additional segmentation variables rather than as standalone explanations of churn.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 433.8898 Tm (Portfolio value) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 417.8898 Tm (Demonstrates structured data analysis, categorical hypothesis testing, interpretation of) Tj T* ET
-BT 1 0 0 1 52 404.8898 Tm (risk differences and translation of quantitative findings into business recommendations.) Tj T* ET
-BT /F2 11 Tf 13.2 TL ET
-BT 1 0 0 1 52 383.8898 Tm (Reproducibility) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 52 367.8898 Tm (The accompanying analysis.R file documents the analytical workflow and the repository) Tj T* ET
-BT 1 0 0 1 52 354.8898 Tm (contains supporting visualisations.) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 455.8196 25 Tm (Portfolio project | Page 1) Tj T* ET
- 
-endstream
+Gat=*>u03/'Rf.Ggo%-@8k@AUD'&uk$#+&lar`=GdhktEfM5;>rV0Y[*sL/s;&+qBg:m=:F3d!e"<fsks%Bg$f/[*l71dG"(D%lY!r5XeO^Gb-7/bDQ)2.N(Md`#b6+TT#4GV+)0H+H[W@apH?l^WB'*$8q`'2W">mt`:@Yas1)joG<`i:WBE)SYu_A@IXQ:i`mK^Y('XV'\GjNip;K?K<1&_A+P%Ui#IGM%XT#=/,p_ld)H0T+:$$J09a@!7%u!'.6]Jkmd4Z,CShJ+j<lX;,i<p1(?,TFJ5kBGV]C(nu^SRlRj^?Vf"<>-[*TcJqL%e`e>NO:J(fh<Vl!m%1bJ'J7\*>$;P5W9%2"=#1Ct'G\Q,#&hAE\F+#SP(D.ORL3-3Q5g5TR?/?i6<XQ#M]jLJ5`\XC[8:%/_+cVWW[p>t]%arO%Uu-9XpN50eM5$5X,aciQha21?KX=L5KJR/Bo.oUHr>a%h`b8i_dp$M=`^T"1]=a:l7;oONqDqj'u18$I4hm:'l7+G3Rjk\,-eB6[T%&QaE"%G\]e=O><Gb`X`*H9)XCgP-L20``WWHne`dc<ja,)ZeY75>JUD9LJgsdKb].mHV0Qp67PSotY2%5e0kN$q61#iM"S^la?567q&X"(d<N^+:W7rRFn<7I^mH6/ff8"EB8/Y,=K_Pg]QXLG;8\/(mre?.i.*,NH:lBAaFGu[T,Qs,q'OB*c@/.`ubX2O\nD3#lPGN^efP]2__R9LCrZK@W\BnkQTLcEm[1`sI1+$6SoEum%psGoT*5f;3NA+@BZ(JDqULH9sK1gK3f^k9lE>34\E-b&b0KLioo[PCcOK;Jq[edJ][SR^]DF^^=JqGH8l&cg1kg3!GX4U9+@^GMSo9M3OaW(VkI"Q5r:G1C*+[s[a`bG7I92GfMCqX6*OYP*,`SfCb4fQ-jpNpoP:^c^XmdjF4:7JT&/]r]gD48n*`OY%&aAH-BU#JXCW6E_i(@0GYkj]^=c_fQ]AD>d2a*[<3CfGXDTT?_,0`J4#r@\Lo`LG:/7A\kP)\ps]YE]]#l#qQER&7#`<#Bl@Ij[oW.U`g.#oEUA1-<E#~>endstream
 endobj
 xref
 0 9
@@ -103,18 +57,17 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000853 00000 n 
-0000000912 00000 n 
+0000000880 00000 n 
+0000000939 00000 n 
 trailer
 <<
 /ID 
-[<d86e990a9359a74db659d2b5efc195b8><d86e990a9359a74db659d2b5efc195b8>]
+[<18f832166a015958cf275f7fefe8f5e9><18f832166a015958cf275f7fefe8f5e9>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
 /Root 5 0 R
 /Size 9
 >>
-startxref
-3793
+startxreg2112
 %%EOF
