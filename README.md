@@ -1,27 +1,46 @@
 # Vlada Saltykova — Data Analytics Portfolio
 
-A portfolio of quantitative and business analytics projects demonstrating R, Python, SPSS, statistics, data cleaning, hypothesis testing, regression, segmentation and analytical communication.
+Selected quantitative and business analytics projects demonstrating data cleaning, statistical testing, regression, visualisation and analytical communication using R and Python.
 
 ## Projects
 
-### 1. NHS Satisfaction Analysis — R
-British Social Attitudes Survey 2021 | 3,307 respondents  
-Skills: R, data cleaning, descriptive statistics, t-tests, Chi-square, linear regression, model diagnostics.
+### 01 — NHS Satisfaction Analysis
+British Social Attitudes Survey 2021 | 3,307 respondents
 
-### 2. Customer Churn & Retention Analysis — Python
-IBM Telco Customer Churn | 7,043 customer records  
-Skills: Python, Pandas, exploratory analysis, customer segmentation, Welch t-tests, Chi-square, odds ratios, business recommendations.
+Analysis of satisfaction with the National Health Service using descriptive statistics, hypothesis testing and linear regression.
 
-### 3. Restaurant Spending Analysis — Python
-Restaurant bills dataset | 244 observations  
-Skills: Python, Pandas, SciPy, regression, hypothesis testing, residual diagnostics, robust standard errors.
+**Methods:** t-test, Chi-square test, linear regression, model diagnostics  
+**Tools:** R
 
-### 4. Money Attitudes & Personality Analysis — SPSS
-Quantitative research project | 78 respondents  
-Skills: SPSS, descriptive statistics, Spearman correlations, factor analysis, survey research, quantitative interpretation.
+[View project files](01_nhs_satisfaction/)
 
-## Tools
-R • Python • SQL • SPSS • Excel • Pandas • NumPy • SciPy • Statsmodels • Matplotlib • Power BI • Tableau • MySQL • Git/GitHub
+### 02 — Customer Churn & Retention Analysis
+IBM Telco Customer Churn | 7,043 customer records
+
+Analysis of customer churn patterns, with a focus on contract type, payment method, tenure and monthly charges, supported by statistical testing and business interpretation.
+
+**Methods:** descriptive analysis, Chi-square test, odds ratios, comparative analysis  
+**Tools:** Python / statistical analysis
+
+[View project files](02_customer_churn/)
+
+### 03 — Restaurant Spending Analysis
+Restaurant bills dataset | 244 observations
+
+Quantitative analysis of restaurant spending, examining differences by smoking status and day of the week and the relationship between party size and total bill.
+
+**Methods:** Welch t-test, Chi-square test, linear regression, residual diagnostics, robust standard errors  
+**Tools:** Python, Pandas, SciPy, Statsmodels
+
+[View project files](03_restaurant_spending/)
+
+## Technical Skills
+
+**Languages & analysis:** Python, R, SQL, SPSS  
+**Libraries:** Pandas, NumPy, SciPy, Statsmodels, Matplotlib  
+**Methods:** data cleaning, EDA, hypothesis testing, regression, segmentation, statistical interpretation  
+**Tools:** Excel, Git, GitHub, Power BI, Tableau, MySQL
 
 ## About
-These projects are academic and independent portfolio work. They are presented to demonstrate analytical capability and are not commercial employment experience.
+
+These are academic and independent portfolio projects created to demonstrate practical analytical skills, quantitative reasoning and reproducible workflows.
