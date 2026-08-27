@@ -32,7 +32,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (Data Analytics Portfolio) /CreationDate (D:20260827215332+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215332+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Vladyslava Saltykova - Data Analytics Portfolio) /CreationDate (D:20260827215607+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215607+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (Restaurant Spending Analysis) /Trapped /False
 >>
 endobj
@@ -43,43 +43,10 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 1968
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1169
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
-BT 1 0 0 1 56.69291 771.0236 Tm (Restaurant Spending Analysis) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 56.69291 747.0236 Tm (Plotly Express tips dataset | Python | Quantitative Analytics) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 728.0236 Tm (1. Objective) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 710.0236 Tm (Examine how restaurant bill size varies by day, smoking status and meal period, and test whether party si) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 693.0236 Tm (2. Dataset and methods) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 675.0236 Tm (The project uses the Plotly Express tips dataset containing 244 restaurant bills. Variables include total) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 658.0236 Tm (3. Statistical workflow) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 640.0236 Tm (The analysis calculates descriptive statistics by day, smoking status and meal period; applies a Welch in) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 623.0236 Tm (4. Assumption checks) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 605.0236 Tm (Normality is assessed using Shapiro-Wilk tests, variance equality using Levene test, and regression resid) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 588.0236 Tm (5. Business interpretation) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 570.0236 Tm (Party size is a natural operational driver of bill value and can inform table allocation, staffing and ca) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 553.0236 Tm (6. Reproducibility) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 535.0236 Tm (The repository contains analysis.py, the tips.csv dataset, supporting visualisations and this report.) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 56.69291 28.34646 Tm (Data Analytics Portfolio) Tj T* ET
-BT 1 0 0 1 534.1347 28.34646 Tm (1) Tj T* ET
- 
-endstream
+Gat=*9lo&I&A@7.ln(q%@RZ0KUgr1>dt=Pq.nt)>^nli("Af)_XA"+k(SDMk[;1%IT!;i8\Tn!8G*Tq'Ia\"\2ZPcupuQQ(Ba20VdQGW[G6bUhGO[eJF;<*-1b&:moWc?/8;_Pu:1:\,P?BfA7iM0e:NW29Q73>KK;oXN!$;r>B.)I>fR8D.cTg]mY`@>\P1=@0o0m#8,INkN\:$%HSHCO(K9CNBd)/)P3Vuu1qX@!J!/+uk*3m-4$i]Mlm)?]2"3@bh^mG!YjItoJbp83L/Ub=dCu/7*I:/%2#dljIm?u]:.D^l0#Y/J13nU((bOYjAU[J;[oV?CG0NCGl9S,P\F?,0_T'AEApC'Eo,-2RhV]'uC((@PKgtaHYZu_ZDk-9T'n25IXl(/1IaCL4N82?*s=["tufC_G`PqRFD9sb[oJOmBkiAINPXZR9>6'g^6jkV6P(Qm#:P'@e#bI5>TpQKCBc<!0:F=CpY&"RZQ-_6-$1`1T-.8PDG,`kgsb*E;#Kt<Y_F[:7>Y;%te/JjoJ2(7-#38qI,)?Ne\2*"^O=ja^f%0:O7/E5ffm<p;RBrlcAeZphJoOA\$W&eiC3K`r$a/q$Mea@H<Z,)B]+XRW3U?"2:<aln0W;P/M`WRahoF8W=/G#GgXrA!%`\"4Bj\9GHIJeR-KQ>q4<3D,`-^Y,Z,?nkTG^(g;mdHIp5sp]A^':F$on8!V$,(!r%8=U)].Fop&?IJ)*4d$mPR[oC)QE?Q*sCl(F)=:W;e98[^E4IplDUo_]=&04Jq/"HLRPc4Rr-E/Y^6.GaSRsEM!Qf'RGnKCKZ;X'UN^rNL$r;p/<7M]bg$FADa5NF'dZk'00fdEgfSA5YGW=_+9bBR%SB4n-LfcnF0KuJ3Zi`@&[g4UjQiNf!j1"h?K@8-:r%[J*@`GXlClTrqH,'8jWI_c@?-"l.$R4pZSBBhX0I!5MnupX4P_-QBLu>^ASETt2OLl/+-BDq4:4MKBu#LT$VX1;,G7UNZDp7fXt,qO^ERW/(_<D[acrM$$%*@cKbhcls1:lPXb0=dOjtihLbM4b75&*@"sENEVo(2a'W]Wf2G`MRmo@AB=pfj0Uuo\^2.,NBf;(j1a_'7uqlP+2</HITb.*,:,;IafUTG'&*JFk5FA]&U0)D"n&(Ra'2@T'R"ef9#[K~>endstream
 endobj
 xref
 0 9
@@ -90,12 +57,12 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000888 00000 n 
-0000000947 00000 n 
+0000000911 00000 n 
+0000000970 00000 n 
 trailer
 <<
 /ID 
-[<4a2f3a6b96244e47648c06f850795826><4a2f3a6b96244e47648c06f850795826>]
+[<5148ad26eff279f2b7378ac845fc6bc9><5148ad26eff279f2b7378ac845fc6bc9>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
@@ -103,5 +70,5 @@ trailer
 /Size 9
 >>
 startxref
-2966
+2230
 %%EOF

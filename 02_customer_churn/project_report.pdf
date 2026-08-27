@@ -32,7 +32,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (Data Analytics Portfolio) /CreationDate (D:20260827215332+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215332+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Vladyslava Saltykova - Data Analytics Portfolio) /CreationDate (D:20260827215607+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215607+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (Customer Churn and Retention Analysis) /Trapped /False
 >>
 endobj
@@ -43,47 +43,10 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 2244
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1142
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
-BT 1 0 0 1 56.69291 771.0236 Tm (Customer Churn and Retention Analysis) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 56.69291 747.0236 Tm (IBM Telco Customer Churn Dataset | R | Customer Analytics) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 728.0236 Tm (1. Project objective) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 710.0236 Tm (Identify patterns associated with customer churn and translate the findings into practical retention insi) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 693.0236 Tm (2. Dataset) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 675.0236 Tm (The project uses the IBM Telco Customer Churn dataset with 7,043 customer records. The analysis focuses o) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 658.0236 Tm (3. Analytical workflow) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 640.0236 Tm (The R workflow imports the customer-level CSV, converts churn, contract and payment method to factors, ca) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 623.0236 Tm (4. Key questions) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 605.0236 Tm (Does churn vary by contract type? Does churn vary by payment method? Do churned customers differ in tenur) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 588.0236 Tm (5. Business interpretation) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 570.0236 Tm (Contract and payment-method differences describe customer commitment and billing behaviour. Tenure provid) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 553.0236 Tm (6. Recommendations and limitations) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 535.0236 Tm (Retention activity should be targeted rather than applied uniformly. Segments showing higher observed chu) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 518.0236 Tm (7. Reproducibility) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 500.0236 Tm (The repository includes analysis.R and supporting visualisations. The original dataset is expected locall) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 56.69291 28.34646 Tm (Data Analytics Portfolio) Tj T* ET
-BT 1 0 0 1 534.1347 28.34646 Tm (1) Tj T* ET
- 
-endstream
+Gat=jgQ(;P%#46F.<sM]))l`u*%j>%(+@P(M]a[GaE5Y.,,M%#1dE.sP]EueR8+O6+EJ^L,5M2u0BY$T^HDJH4+Pp?r:k%;Gld4LnnC"9p$_CnqGUQN+CE([,0sm"H@A&PS7T$<Z-6W?ca.UGOY&Zim]GU/G3IneBtX[].p-4F)ou1WaXV@BipU=S"kGnC"6Ha\n]0>BUH$`.O7V,l+0\50*Sa'\=Tub]i*TU.n+n_l%]&Q&([i,h+1s#ui.#XYTFTK14,%3V3\CC,[..['8epmG8'mT5FecUt!BkEr)&0F+U]OS9T[:dO$esU)AKstn1^GtlMX6X[CiEbEG*g'^+fSdGfZ.s,PlZ@LM_*>c$(O.MCc6*fZRX;lR[(iN87.p>N'KHD'Nm^&o?heDl,e8$c<$OP>&^H^4$r=F"#;k5#hih:6]4ec2[IGeNaT&N4$a*5%#q;W+<4UH8Yr!ECs4Wu]#Eih(?;"'#IF&>8B1gX,)m<WSH#WJmJsWK4!-HTe.l8b.ogoN.ke!21u6aYe23`eUc&E[cmtmGfT:LGdK`%\`OlH@dqbEt>ffH[[p6>qSMKti_!-g-&faka,q[gB.$OJ6kE3>A2tXt:[h;>#EJSJk^FK+9Q81$fCKd$8&)aj,ZH-a/d0o6$%Y%O=E\ct,IX?k7bD@ZI<7g?]C8nd2et+c%i<B"46II!j]-1\DA8SPJ*P'a6O2r(=ZWj%igO%P7KE?:Uo4"XfIFL`XU?DKs@7P9M8="-.N_ZK*^)&Rn02e0-WJh(Zf.#/m\GDWp9.U;P<JSoC3F*,lC5")k>FesY=W+./Jba`f,i'8mEF@>E]K6Hj#k"@5"cV1a(S>T'7Vl=?F;m^,aVBsc,D4=&R:L![gNVo<B2K/?O/t6V-1L9@8\isgh!UqON;DLu9ejC8g;6S%@F]+88j.?mGGtXsQm$0kPfiJ_^pV"RdS7#hTe[T[i5W1%!pbHFCHkf#5t)#o=f+/6P!bm[I>FEQX@kiTG<dl"\eRhS;Cfl9Ld"UY^j+e#dAt6>*E-qVGe*/8HCJKH"SJidPbo[CPp&=Q<P&('M7+[J>V8a\]h.XTQn/IHM>tNi'TU1i'?XS"OE-OSdN0q7D@mCnis)dJ32485IPVG4_PdD6S,<`+~>endstream
 endobj
 xref
 0 9
@@ -94,12 +57,12 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000897 00000 n 
-0000000956 00000 n 
+0000000920 00000 n 
+0000000979 00000 n 
 trailer
 <<
 /ID 
-[<5f29d1448681765fb80433c2c61adc47><5f29d1448681765fb80433c2c61adc47>]
+[<5ad07a722e4a3a7b048ef2932f2e8c90><5ad07a722e4a3a7b048ef2932f2e8c90>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
@@ -107,5 +70,5 @@ trailer
 /Size 9
 >>
 startxref
-3251
+2212
 %%EOF

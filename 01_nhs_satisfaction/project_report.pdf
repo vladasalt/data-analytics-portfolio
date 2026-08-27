@@ -32,7 +32,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Author (Data Analytics Portfolio) /CreationDate (D:20260827215332+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215332+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Vladyslava Saltykova - Data Analytics Portfolio) /CreationDate (D:20260827215607+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260827215607+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (NHS Satisfaction Analysis) /Trapped /False
 >>
 endobj
@@ -43,47 +43,10 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 2350
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1196
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
-BT 1 0 0 1 56.69291 771.0236 Tm (NHS Satisfaction Analysis) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 56.69291 747.0236 Tm (British Social Attitudes Survey 2021 | R | Quantitative Research) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 728.0236 Tm (1. Research question) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 710.0236 Tm (Does NHS satisfaction differ across income, marital status, children, sex, education and age in the Briti) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 693.0236 Tm (2. Data and approach) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 675.0236 Tm (The project uses the British Social Attitudes Survey 2021. NHS satisfaction is treated as a continuous ou) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 658.0236 Tm (3. Sample and descriptive results) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 640.0236 Tm (The complete-case analytical sample is N = 3,307. The mean NHS satisfaction score is 2.60. Income-group m) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 623.0236 Tm (4. Inferential results) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 605.0236 Tm (Sex: t = -0.78, p = 0.437. There is no statistically significant difference in mean NHS satisfaction by s) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 588.0236 Tm (Education: Chi-square = 10.84, df = 6, p = 0.093. This does not reach the 5% significance threshold.) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 571.0236 Tm (Age: regression slope = 0.00117, p = 0.717, with approximately zero R-squared. There is no evidence of a ) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 554.0236 Tm (5. Other descriptive comparisons) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 536.0236 Tm (Mean satisfaction was 2.63 for married/cohabiting respondents, 2.52 for divorced/separated respondents, 2) Tj T* ET
-BT /F2 13 Tf 15.6 TL ET
-BT 1 0 0 1 56.69291 519.0236 Tm (6. Limitations and conclusion) Tj T* ET
-BT /F1 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 56.69291 501.0236 Tm (The analysis is cross-sectional and observational, so associations should not be interpreted causally. NH) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 56.69291 28.34646 Tm (Data Analytics Portfolio) Tj T* ET
-BT 1 0 0 1 534.1347 28.34646 Tm (1) Tj T* ET
- 
-endstream
+GatU2gMYb*&:O"Kbf^(B_H(fG>Td.E2tUOf^rH?SL)aDK-rD9>-X#fVmuXt&,n?Zd$c@QKjRAZqF,!@2VI't=]ES)?JbNLb85e)V+j$K!2LiT1c("2dKr"G2dj-E`pW5-X;+BXs>pW<I8JJ'?%;Feqn))^#Akq&3j%ekLXuiL%XL)nSo)go>*ePiE$>[XYrEAR#(h8%POodSHem's6f?QrH#dgfWbT7iKNRJ%0KcBmg4g9s\&s,8n%9d:s2pWYC0Ch<IOJX7W;_7](T_/Fpi"ZtMC@Z]#3#eWAf#5EuB;a/a\_Wt\`f7DB/1T]j"^%M&QNCC)1TYL?#Mq.%F3mI0`%B%?>_@"FlRB\,+D"8t:I&6Mp5]US/#W(1R5kJQ'@<Ih[(')KZC']`6X4u5IulcH=9:W/s(\f,kF,&4D30%6R0>LH>um$?ED7b2%=57O#KLtF&U8!Uk^WanK#!B46Xa/*THRkS)F\?RfHXZ_\$W7(Q)Cp0<+h,7,jE5q]TGkaF'o3gcOP8*klZO#*Rue[g_mKM1VT'U!N,^J_%jmc>XXq@3A*fVa<uU\0=h(KnlsVo)!dCZclF`!ZQr^Njo]uY\Ci'aWsJ\k;XZ0%=-,m_*5NQ^O&j,XdmQ]5Q>omS$g?Pa7b=BW7pY.'c`..jg5W(A8j/9G]2!8.TlXl3rA*K/(b'qH")!/gZek00rW>h,HPK^s^&YF7q_E-\l!%^T!.h[@cM>C`hFkh+TQ#tWEc,SLEkC2e[/R/T4W^iJ8Q)+8<;uSfRm!2:?FFB:@e($J%6$cl6uX!B614%1*%_fiOV[A]nDsXr$gcp](6GL<[V]Q)W>"i&18-4OoDtot9ta@$TkDlZBr+I&c)Yqk-@"H?rSLHS,6qb`eHT2hN(!3-l\=4.So.%lD6H=9U%[LkKn2SY[G`sj,2r-QE(8Ek=H0UMMcnXTk+*4_N]QIdCZn?sBFtGN_P;)H4n?5Yj'Z4!F"m0AIE3d.OPPKTd83l];C0\B*@@N-%R^cF#H*:cVb%\;4fq0s53\*.+V_G!Wam&D,QB.GEW("&_gBs4h7dtRfMc@d>JGZLFaU#-!79A4h:i2#ODI?!`r>0t%l7*rX*g0.H.tLKGp7(rA5%DedHoQ6!+(P%RTWhTLNa,X%pRcaW!)=G6^^ap1pC2SK2GFi'saUp:N+U$jD;'7lV/$!DuKiF0bH8~>endstream
 endobj
 xref
 0 9
@@ -94,12 +57,12 @@ xref
 0000000321 00000 n 
 0000000524 00000 n 
 0000000592 00000 n 
-0000000885 00000 n 
-0000000944 00000 n 
+0000000908 00000 n 
+0000000967 00000 n 
 trailer
 <<
 /ID 
-[<3a4cecd09cddbe2b7f8ebea2cd8b1930><3a4cecd09cddbe2b7f8ebea2cd8b1930>]
+[<52b7ceb88c2a4bbe0a79d4af98ef1722><52b7ceb88c2a4bbe0a79d4af98ef1722>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 6 0 R
@@ -107,5 +70,5 @@ trailer
 /Size 9
 >>
 startxref
-3345
+2254
 %%EOF
