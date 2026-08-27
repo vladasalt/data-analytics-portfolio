@@ -33,31 +33,27 @@ This project examines whether NHS satisfaction differs across key socio-demograp
 
 ### NHS satisfaction by household income
 
-![NHS satisfaction by income](nhs_satisfaction_by_income.png)
+![NHS satisfaction by household income](mean_nhs_satisfaction_by_income.png)
 
 ### NHS satisfaction by marital status
 
-![NHS satisfaction by marital status](nhs_satisfaction_by_marital_status.png)
+![NHS satisfaction by marital status](mean_nhs_satisfaction_by_marital_status.png)
 
 ### NHS satisfaction by children in household
 
-![NHS satisfaction by children](nhs_satisfaction_by_children.png)
+![NHS satisfaction by children in household](mean_nhs_satisfaction_by_children.png)
 
-### NHS satisfaction by sex
+## Statistical results
 
-![NHS satisfaction by sex](nhs_satisfaction_by_sex.png)
-
-### Hypothesis-test results
-
-![Hypothesis-test p-values](hypothesis_test_p_values.png)
+Female mean satisfaction = 2.58 and male mean satisfaction = 2.63 (*t* = −0.78, df = 2,888, *p* = 0.437). The education test gave χ² = 10.84, df = 6, *p* = 0.093. The age regression gave an age coefficient of 0.00117 (*p* = 0.717) and R² = 0.00004.
 
 ## Interpretation
 
-The results provide limited evidence that the socio-demographic variables examined systematically explain differences in NHS satisfaction. The analysis demonstrates how survey data can be cleaned, explored and evaluated using formal statistical tests rather than relying only on descriptive differences.
+The results provide limited evidence that the socio-demographic variables examined systematically explain differences in NHS satisfaction. Sex, education and age are not statistically significant at α = 0.05.
 
 ## Limitations
 
-NHS satisfaction is measured on a discrete response scale but is treated as continuous for the main parametric analysis. The data are cross-sectional and observational, so the results should be interpreted as associations rather than causal effects. Complete-case analysis may also introduce selection bias.
+NHS satisfaction is measured on a discrete response scale but is treated as continuous for the main parametric analysis. The data are cross-sectional and observational, so the results should be interpreted as associations rather than causal effects. Complete-case analysis may also introduce selection bias. The age regression residuals are non-normal (Shapiro-Wilk *p* < 0.001), although no clear funnel pattern is observed.
 
 ## Reproducibility
 
