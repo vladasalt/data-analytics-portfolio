@@ -1,1 +1,0 @@
-The valid binary PDF is being installed as project_report.pdf.
