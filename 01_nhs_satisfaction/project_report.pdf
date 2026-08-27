@@ -1,2 +1,87 @@
 %PDF-1.4
-% placeholder
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1848 >>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(NHS Satisfaction Analysis) Tj
+/F1 10 Tf
+0 -25 Td
+(British Social Attitudes Survey 2021) Tj
+0 -20 Td
+(Project overview) Tj
+0 -15 Td
+(Analysis of satisfaction with the National Health Service using the British Social) Tj
+0 -13 Td
+(Attitudes Survey 2021. The project uses R and a sample of 3,307 respondents.) Tj
+0 -22 Td
+(Analytical methods) Tj
+0 -15 Td
+(- Descriptive statistics) Tj
+0 -13 Td
+(- Independent-samples t-test) Tj
+0 -13 Td
+(- Chi-square test) Tj
+0 -13 Td
+(- Linear regression) Tj
+0 -13 Td
+(- Model diagnostics) Tj
+0 -22 Td
+(Analytical workflow) Tj
+0 -15 Td
+(1. Convert labelled survey variables and recode non-substantive responses.) Tj
+0 -13 Td
+(2. Construct NHS satisfaction, age and socio-demographic variables.) Tj
+0 -13 Td
+(3. Build a complete-case analytical dataset.) Tj
+0 -13 Td
+(4. Compare NHS satisfaction across sex using an independent-samples t-test.) Tj
+0 -13 Td
+(5. Examine education and NHS satisfaction categories with a Chi-square test.) Tj
+0 -13 Td
+(6. Model NHS satisfaction as a function of age using linear regression.) Tj
+0 -13 Td
+(7. Check residual normality, variance assumptions and model diagnostics.) Tj
+0 -22 Td
+(Reproducibility) Tj
+0 -15 Td
+(The original BSA 2021 survey dataset is not redistributed in this repository.) Tj
+0 -13 Td
+(The analysis script documents the workflow and can be run when the local survey) Tj
+0 -13 Td
+(dataset is available.) Tj
+0 -22 Td
+(Files) Tj
+0 -15 Td
+(analysis.R - R analysis workflow) Tj
+0 -13 Td
+(README.md - project overview) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000000331 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2230
+%%EOF
