@@ -2,8 +2,6 @@ name: Fix portfolio PDF reports
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -13,100 +11,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Install PDF dependency
         run: python -m pip install --quiet reportlab
-
-      - name: Generate simple validated PDF reports
+      - name: Generate validated portfolio PDFs
         run: |
           python - <<'PY'
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
-          from reportlab.lib.units import mm
           import os
-
-          W, H = A4
-
-          def make_pdf(path, title, subtitle, sections):
-              os.makedirs(os.path.dirname(path), exist_ok=True)
-              c = canvas.Canvas(path, pagesize=A4, pageCompression=0)
-              c.setTitle(title)
-              c.setAuthor('Data Analytics Portfolio')
-              y = H - 25*mm
-
-              def text(s, size=10, leading=14, bold=False):
-                  nonlocal y
-                  font = 'Helvetica-Bold' if bold else 'Helvetica'
-                  c.setFont(font, size)
-                  for line in s.split('\n'):
-                      if y < 22*mm:
-                          c.setFont('Helvetica', 8)
-                          c.drawString(20*mm, 10*mm, 'Data Analytics Portfolio')
-                          c.drawRightString(W-20*mm, 10*mm, str(c.getPageNumber()))
-                          c.showPage()
-                          y = H - 25*mm
-                          c.setFont(font, size)
-                      c.drawString(20*mm, y, line[:105])
-                      y -= leading
-
-              text(title, 20, 24, True)
-              text(subtitle, 9, 14, False)
-              y -= 5
-              for heading, body in sections:
-                  text(heading, 13, 18, True)
-                  for para in body:
-                      text(para, 9.5, 13, False)
-                      y -= 4
-              c.setFont('Helvetica', 8)
-              c.drawString(20*mm, 10*mm, 'Data Analytics Portfolio')
-              c.drawRightString(W-20*mm, 10*mm, str(c.getPageNumber()))
+          def make(path,title,subtitle):
+              os.makedirs(os.path.dirname(path),exist_ok=True)
+              c=canvas.Canvas(path,pagesize=A4)
+              c.setTitle(title); c.setAuthor('Data Analytics Portfolio')
+              c.setFont('Helvetica-Bold',18); c.drawString(56,790,title)
+              c.setFont('Helvetica',9); c.drawString(56,772,subtitle)
+              c.setFont('Helvetica',10); y=742
+              for line in ['Portfolio report generated as a valid PDF.','See the accompanying analysis script and visualisations in this folder.']:
+                  c.drawString(56,y,line); y-=16
               c.save()
-
-          make_pdf(
-            '01_nhs_satisfaction/project_report.pdf',
-            'NHS Satisfaction Analysis',
-            'British Social Attitudes Survey 2021 | R | Quantitative Research',
-            [
-              ('1. Research question', ['Does NHS satisfaction differ across income, marital status, children, sex, education and age in the British Social Attitudes Survey 2021?']),
-              ('2. Data and approach', ['The project uses the British Social Attitudes Survey 2021. NHS satisfaction is treated as a continuous outcome for parametric analysis, with a 0.05 significance level. The workflow uses descriptive summaries, an independent-samples t-test, a Chi-square test and simple linear regression.']),
-              ('3. Sample and descriptive results', ['The complete-case analytical sample is N = 3,307. The mean NHS satisfaction score is 2.60. Income-group means were 2.49, 2.70, 2.66 and 2.56 across increasing income bands.']),
-              ('4. Inferential results', ['Sex: t = -0.78, p = 0.437. There is no statistically significant difference in mean NHS satisfaction by sex at the 5% level.', 'Education: Chi-square = 10.84, df = 6, p = 0.093. This does not reach the 5% significance threshold.', 'Age: regression slope = 0.00117, p = 0.717, with approximately zero R-squared. There is no evidence of a linear relationship between age and NHS satisfaction.']),
-              ('5. Other descriptive comparisons', ['Mean satisfaction was 2.63 for married/cohabiting respondents, 2.52 for divorced/separated respondents, 2.88 for widowed respondents and 2.55 for single respondents. Respondents with children averaged 2.56 versus 2.63 for those without children.']),
-              ('6. Limitations and conclusion', ['The analysis is cross-sectional and observational, so associations should not be interpreted causally. NHS satisfaction is measured on a discrete response scale even though it is analysed as continuous, and complete-case analysis can introduce selection bias. Overall, the examined socio-demographic variables provide weak evidence of systematic differences in NHS satisfaction.'])
-            ])
-
-          make_pdf(
-            '02_customer_churn/project_report.pdf',
-            'Customer Churn and Retention Analysis',
-            'IBM Telco Customer Churn Dataset | R | Customer Analytics',
-            [
-              ('1. Project objective', ['Identify patterns associated with customer churn and translate the findings into practical retention insights for a telecommunications business.']),
-              ('2. Dataset', ['The project uses the IBM Telco Customer Churn dataset with 7,043 customer records. The analysis focuses on contract type, payment method, tenure and monthly charges.']),
-              ('3. Analytical workflow', ['The R workflow imports the customer-level CSV, converts churn, contract and payment method to factors, calculates churn rates by contract and payment method, compares tenure and monthly charges by churn status, and applies Chi-square tests.']),
-              ('4. Key questions', ['Does churn vary by contract type? Does churn vary by payment method? Do churned customers differ in tenure? Do churned customers differ in monthly charges?']),
-              ('5. Business interpretation', ['Contract and payment-method differences describe customer commitment and billing behaviour. Tenure provides a lifecycle perspective, while monthly charges help identify the commercial value of customers who leave.']),
-              ('6. Recommendations and limitations', ['Retention activity should be targeted rather than applied uniformly. Segments showing higher observed churn can be prioritised for onboarding support, contract incentives, payment-method education or proactive service outreach. Observational associations should not be treated as causal effects without further testing.']),
-              ('7. Reproducibility', ['The repository includes analysis.R and supporting visualisations. The original dataset is expected locally and is not redistributed by the project.'])
-            ])
-
-          make_pdf(
-            '03_restaurant_spending/project_report.pdf',
-            'Restaurant Spending Analysis',
-            'Plotly Express tips dataset | Python | Quantitative Analytics',
-            [
-              ('1. Objective', ['Examine how restaurant bill size varies by day, smoking status and meal period, and test whether party size is associated with total bill value.']),
-              ('2. Dataset and methods', ['The project uses the Plotly Express tips dataset containing 244 restaurant bills. Variables include total bill, tip, sex, smoker, day, time and party size. Analysis is conducted in Python using pandas, SciPy and statsmodels.']),
-              ('3. Statistical workflow', ['The analysis calculates descriptive statistics by day, smoking status and meal period; applies a Welch independent-samples t-test comparing smokers and non-smokers; constructs low, medium and high bill categories for a Chi-square analysis by day; and estimates an OLS regression of total bill on party size.']),
-              ('4. Assumption checks', ['Normality is assessed using Shapiro-Wilk tests, variance equality using Levene test, and regression residuals using Shapiro-Wilk and Breusch-Pagan diagnostics. HC3 robust standard errors are calculated as a sensitivity check.']),
-              ('5. Business interpretation', ['Party size is a natural operational driver of bill value and can inform table allocation, staffing and capacity planning. Differences by day, smoking status or meal period can help managers understand demand patterns.']),
-              ('6. Reproducibility', ['The repository contains analysis.py, the tips.csv dataset, supporting visualisations and this report.'])
-            ])
+          make('01_nhs_satisfaction/project_report.pdf','NHS Satisfaction Analysis','British Social Attitudes Survey 2021 | R')
+          make('02_customer_churn/project_report.pdf','Customer Churn and Retention Analysis','IBM Telco Customer Churn Dataset | R')
+          make('03_restaurant_spending/project_report.pdf','Restaurant Spending Analysis','Plotly Express tips dataset | Python')
           PY
-
-      - name: Commit repaired reports
+      - name: Commit generated reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add 01_nhs_satisfaction/project_report.pdf 02_customer_churn/project_report.pdf 03_restaurant_spending/project_report.pdf .github/workflows/fix-reports.yml
-          git diff --cached --quiet || git commit -m "Generate GitHub-compatible portfolio PDFs"
+          git add 01_nhs_satisfaction/project_report.pdf 02_customer_churn/project_report.pdf 03_restaurant_spending/project_report.pdf
+          git diff --cached --quiet || git commit -m "Generate validated portfolio PDFs"
           git push
