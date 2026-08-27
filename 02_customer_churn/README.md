@@ -53,4 +53,4 @@ The dataset is observational, so the reported relationships should not be interp
 
 ## Reproducibility
 
-See [`analysis.R`](analysis.R) for the R analysis workflow. The repository also contains the supporting visualisations and [`project_report.pdf`](project_report.pdf).
+See [`analysis.R`](analysis.R) for the R analysis workflow. The repository contains the supporting visualisations and [`project_report.pdf`](project_report.pdf).
